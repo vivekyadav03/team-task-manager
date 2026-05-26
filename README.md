@@ -347,7 +347,8 @@ The app automatically suggests setting priority to **High** via a banner alert. 
 
 > Add screenshots here after deployment:
 > - Dashboard view :-
-> - ![Dashboard](./Screenshots/dashboard.png)
+> - ![Dashboard](<img width="1919" height="926" alt="dashboard" src="https://github.com/user-attachments/assets/ca3d6d7a-9ad1-41c8-856a-09afaa9b1dac" />
+)
 > - Projects list :-
 > - ![Projects](./Screenshots/Project list.png)
 > - Task list with filters :-
