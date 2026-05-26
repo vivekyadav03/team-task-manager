@@ -169,8 +169,8 @@ Edit `server/.env`:
 ```env
 PORT=5000
 NODE_ENV=development
-MONGODB_URI=mongodb+srv://youruser:yourpass@cluster.xxxxx.mongodb.net/team-task-manager?retryWrites=true&w=majority
-JWT_SECRET=replace_this_with_a_long_random_string_at_least_32_chars
+MONGODB_URI=mongodb+srv://VivekYadav:vivek18351@cluster0.cww4nai.mongodb.net/?appName=Cluster0
+JWT_SECRET=secretkey
 CLIENT_URL=http://localhost:5173
 ```
 
