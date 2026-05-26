@@ -8,8 +8,8 @@ A production-ready full-stack team task management application with role-based a
 
 | Layer | URL |
 |-------|-----|
-| **Frontend** | `https://your-app.vercel.app` *(deploy to get URL)* |
-| **Backend API** | `https://your-api.railway.app` *(deploy to get URL)* |
+| **Frontend** | "https://team-task-manager-kappa-five.vercel.app/login"
+| **Backend API** | "team-task-manager-production-8fb4.up.railway.app" |
 
 ### Demo Credentials
 
