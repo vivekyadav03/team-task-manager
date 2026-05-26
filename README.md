@@ -15,8 +15,8 @@ A production-ready full-stack team task management application with role-based a
 
 | Role | Email | Password |
 |------|-------|----------|
-| **Admin** | admin@taskflow.com | admin123 |
-| **Member** | member@taskflow.com | member123 |
+| **Admin** | shyam@gmail.com | 654321 |
+| **Member** | xyz@gmail.com | 123456 |
 
 > ⚠️ Create these accounts after deploying using the Signup page.
 
