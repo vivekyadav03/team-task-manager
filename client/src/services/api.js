@@ -5,7 +5,7 @@ import axios from 'axios';
 
 // Base URL for API - uses env variable in production, proxy in development
 const BASE_URL =
-    import.meta.env.VITE_API_URL || '/api';
+    import.meta.env.VITE_API_URL || ' /api';
 
 // Create axios instance with default config
 const api = axios.create({
@@ -33,7 +33,7 @@ api.interceptors.response.use(
     (response) => response,
     (error) => {
         // If 401 (Unauthorized), clear storage and redirect to login
-        if (error.response ? .status === 401) {
+        if (error.response?.status === 401) {
             localStorage.removeItem('token');
             localStorage.removeItem('user');
             // Only redirect if not already on auth pages
