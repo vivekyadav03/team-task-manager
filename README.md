@@ -404,10 +404,10 @@ git push
 
 ## 👨‍💻 Author
 
-Built with ❤️ as a full-stack learning project.
+Vivek Yadav
 
 ---
 
 ## 📄 License
 
-MIT License — free to use and modify.
+Vivek Yadav
