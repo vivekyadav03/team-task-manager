@@ -346,13 +346,25 @@ The app automatically suggests setting priority to **High** via a banner alert. 
 ## 📸 Screenshots
 
 > Add screenshots here after deployment:
-> - Dashboard view
-> - Projects list
-> - Task list with filters
-> - Create task form (with smart priority alert)
-> - Team members page
+## Dashboard
 
----
+![Dashboard](./Screenshots/dashboard.png)
+
+## Projects
+
+![Projects](./Screenshots/project-list.png)
+
+## Tasks
+
+![Tasks](./Screenshots/tasks-list.png)
+
+## Create Task
+
+![Create Task](./Screenshots/create-task-form.png)
+
+## Team Members
+
+![Team Members](./Screenshots/team-members.png)
 
 ## 🐙 GitHub Commands
 
